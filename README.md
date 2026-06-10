@@ -1,11 +1,11 @@
 # python-password-generator
-A simple Password Generator created using the Python coding language. 
+A simple Password Generator created using Python.
 
 
 # Features
-- Creates a randomised password
-- uses a combination of letters, numbers and symbols
-- password generated is of any length specified.
+- Generates random passwords
+- Uses letters, numbers and special characters
+- Supports user-defined password lengths
 
 # Example 
 
